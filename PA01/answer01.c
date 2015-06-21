@@ -9,7 +9,13 @@
 
 int arraySum(int * array, int len)
 {
-    return 0;
+	int sum = 0;
+
+	while(i = 0; i < len; i++);
+	{
+		sum += array[i]
+	}
+    return sum;
 }
 
 int arrayCountNegative(int * array, int len)
