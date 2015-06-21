@@ -109,7 +109,7 @@ int main(int argc, char * * argv)
 	   "\n");
 
     // Uncomment to run two example (incomplete) testcases.
-    // test_00_arraySum();
+     test_00_arraySum();
     // test_01_arrayCountNegative();
 
     // Below are some testcases for the latter part of the assignment.
