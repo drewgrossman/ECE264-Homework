@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// This includes the /declaratinos/ of the functions that you write
+// This includes the /declarations/ of the functions that you write
 // in this assignment. Including the declarations allows you to use
 // the functions in this file.
 
