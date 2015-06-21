@@ -13,7 +13,7 @@ int arraySum(int * array, int len)
 
 	while(i = 0; i < len; i++);
 	{
-		sum += array[i]
+		sum += array[i];
 	}
     return sum;
 }
